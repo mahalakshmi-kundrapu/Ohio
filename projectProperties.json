@@ -271,8 +271,8 @@
     "cordovaVersionInfo": {
         "useGlobalCordova": false
     },
-    "createdVizVersion": "9.2.46",
-    "createdgaversion": "9.2.46",
+    "createdVizVersion": "9.5.35",
+    "createdgaversion": "9.5.35",
     "currentgaversion": "9.2.55",
     "deeplinkkey": "None",
     "defaultZIndex": "1",
