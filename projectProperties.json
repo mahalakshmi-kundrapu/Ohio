@@ -273,7 +273,7 @@
     },
     "createdVizVersion": "9.5.35",
     "createdgaversion": "9.5.35",
-    "currentgaversion": "9.2.55",
+    "currentgaversion": "9.5.9",
     "deeplinkkey": "None",
     "defaultZIndex": "1",
     "defaultlocalekey": "",
@@ -401,7 +401,7 @@
             "version": "1.0"
         }
     },
-    "konyVizVersion": "9.2.55",
+    "konyVizVersion": "9.5.9",
     "lastmodifiedtime": "1664205065008",
     "location": "false",
     "mangoapptitlekey": ",,,,,,",
